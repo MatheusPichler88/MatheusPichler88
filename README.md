@@ -1,21 +1,22 @@
 <h1 align="center">
-  ✨Hello, I'm Matheus Dias Pichler! 👨‍💻
+  ✨ Hello, I'm Matheus Dias Pichler! 👨‍💻
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Learning+OOP+in+Java;Studying+Data+Structures+%26+SQL;Exploring+the+World+of+Computer+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=👨‍🎓+Computer+Science+Student;💻+Learning+Java+%26+OOP;🧠+Studying+Data+Structures+%26+SQL;🔍+Exploring+the+World+of+Computer+Science" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- Passionate about technology and programming;  
-- Always looking to grow as a developer and explore new technologies;  
-- Currently studying Computer Science, focusing on backend development and software engineering.
+🎓 I'm a Computer Science student at **Universidade Franciscana (UFN)** — currently in the 3rd semester.  
+💻 Passionate about software development, with a focus on **Object-Oriented Programming (Java)** and backend logic.  
+🧠 Continuously learning and exploring new technologies to apply academic concepts in real-world solutions.  
+🎯 Seeking internship or junior-level opportunities to grow professionally and contribute to development teams.
 
 ---
 
-## 🧰 Tools I Use
+## 🧰 Tools & Technologies
 
 <div style="display: inline_block">
   <img align="center" alt="C" height="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -28,15 +29,16 @@
 
 ---
 
-## 📚 What I'm Learning
-- [ ] Object-Oriented Programming in **Java**  
-- [ ] **Data Structures**  
-- [ ] **SQL Databases**  
-- [ ] **GitHub** and collaborative development  
+## 📚 Currently Learning
+
+- 📌 **Object-Oriented Programming in Java**
+- 📌 **Data Structures**
+- 📌 **SQL & Relational Databases**
+- 📌 **Git & GitHub for collaborative development**
 
 ---
 
-## 📊 My Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusPichler88&show_icons=true&theme=dracula&hide_border=true" alt="Stats"/>
@@ -45,7 +47,7 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusPichler88&theme=dracula&margin-w=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
@@ -53,8 +55,9 @@
 
 ---
 
-## 🌐 Social Media
+## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pichler08/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuspichler)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusPichler88)
 
