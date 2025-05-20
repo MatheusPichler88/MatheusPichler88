@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Learning+OOP+in+Java;Studying+Data+Structures+%26+SQL;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Learning+OOP+in+Java;Studying+Data+Structures+%26+SQL;Exploring+the+World+of+Computer+Science" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- Passionate about technology and programming;
-- Always looking to grow as a developer and explore new technologies;
+- Passionate about technology and programming;  
+- Always looking to grow as a developer and explore new technologies;  
 - Currently studying Computer Science, focusing on backend development and software engineering.
 
 ---
@@ -29,10 +29,10 @@
 ---
 
 ## 📚 What I'm Learning
-- [ ] Object-Oriented Programming in **Java**
-- [ ] **Data Structures**
-- [ ] **SQL Databases**
-- [ ] **GitHub** and collaborative development
+- [ ] Object-Oriented Programming in **Java**  
+- [ ] **Data Structures**  
+- [ ] **SQL Databases**  
+- [ ] **GitHub** and collaborative development  
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## 🌐 Social Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuspichler)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuspichler)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusPichler88)
 
 ---
