@@ -28,9 +28,9 @@
 
 🎓 Estudante de **Ciência da Computação** na Universidade Franciscana (UFN)  
 💻 Focado em desenvolvimento **Backend com Java e Spring Boot**  
-📚 Atualmente estudando arquitetura de software, APIs REST, Docker e bancos de dados  
-⚡ Experiência com projetos acadêmicos, APIs modernas e desenvolvimento Full Stack  
-🎯 Buscando evoluir constantemente através de projetos reais e desafios práticos  
+⚡ Experiência com APIs REST, Docker, bancos de dados SQL e arquitetura em camadas  
+📚 Explorando tecnologias modernas como NestJS, Next.js e TypeScript  
+🎯 Sempre buscando construir projetos reais e evoluir tecnicamente  
 
 ---
 
@@ -116,61 +116,23 @@ Projeto Full Stack moderno focado em gerenciamento de condomínios e áreas comu
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPichler88&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPichler88&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusPichler88&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Streak Stats
+# 🧠 Atualmente Explorando
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MatheusPichler88&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,docker,postgres,typescript" />
 
 </div>
-
----
-
-# 📚 Atualmente Estudando
-
-```java
-public class CurrentFocus {
-
-    String backend = "Spring Boot & NestJS";
-    String frontend = "Next.js";
-    String database = "SQL & TypeORM";
-    String architecture = "REST APIs & Clean Architecture";
-    String goal = "Become a Software Engineer";
-}
-```
-
----
-
-# 💼 Experiência Profissional
-
-### 🏥 Hospital Regional de Cardiologia de Santa Maria
-**Auxiliar de Farmácia** *(2023 - Atual)*
-
-- Organização e controle de prescrições
-- Atendimento interno e suporte logístico
-- Desenvolvimento de habilidades de comunicação, responsabilidade e trabalho sob pressão
-
----
-
-# 🎯 Objetivos
-
-✔️ Conseguir uma oportunidade de estágio em desenvolvimento  
-✔️ Evoluir em Backend Engineering  
-✔️ Aprender arquitetura escalável e microsserviços  
-✔️ Contribuir em projetos Open Source  
-✔️ Construir soluções reais com impacto positivo  
 
 ---
 
@@ -188,9 +150,6 @@ public class CurrentFocus {
 
 <div align="center">
 
-### ⭐ “Transformando aprendizado em projetos reais.”
-
-<img src="https://komarev.com/ghpvc/?username=MatheusPichler88&style=for-the-badge&color=blue"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-
