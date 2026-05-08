@@ -1,69 +1,51 @@
-<h1 align="center">
-  ✨ Hello, I'm Matheus Dias Pichler! 👨‍💻
-</h1>
+# Matheus Dias Pichler 🚀
+### Backend Developer | Computer Science Student @ UFN
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=👨‍🎓+Computer+Science+Student;💻+Learning+Java+%26+OOP;🧠+Studying+Data+Structures+%26+SQL;🔍+Exploring+the+World+of+Computer+Science" alt="Typing SVG" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheuspichler">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matheuspichler94@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-🎓 I'm a Computer Science student at **Universidade Franciscana (UFN)** — currently in the 3rd semester.  
-💻 Passionate about software development, with a focus on **Object-Oriented Programming (Java)** and backend logic.  
-🧠 Continuously learning and exploring new technologies to apply academic concepts in real-world solutions.  
-🎯 Seeking internship or junior-level opportunities to grow professionally and contribute to development teams.
+## 👨‍💻 Sobre Mim
+[cite_start]Atualmente no 5º semestre de **Ciência da Computação**. Sou apaixonado por resolver problemas complexos no backend, transitando entre o desenvolvimento de APIs modernas e o estudo de baixo nível em Sistemas Operacionais.
+
+- [cite_start]🔭 **Foco Atual:** Arquitetura de sistemas com NestJS e Spring Boot.
+- 🎓 **Acadêmico:** Pesquisando sobre concorrência (Pthreads) e Teoria da Computação.
+- [cite_start]🏛 **Impacto:** Desenvolvi o sistema de gestão do acervo para o Museu Treze de Maio[cite: 11, 15].
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠 Tecnologias & Ferramentas
 
-<div style="display: inline_block">
-  <img align="center" alt="C" height="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Java" height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Python" height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="MySQL" height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Git" height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="GitHub" height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+| **Outras** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
 ---
 
-## 📚 Currently Learning
-
-- 📌 **Object-Oriented Programming in Java**
-- 📌 **Data Structures**
-- 📌 **SQL & Relational Databases**
-- 📌 **Git & GitHub for collaborative development**
-
----
-
-## 📊 GitHub Stats
-
+## 📈 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusPichler88&show_icons=true&theme=dracula&hide_border=true" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPichler88&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusPichler88&show_icons=true&theme=nord&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPichler88&layout=compact&theme=nord&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusPichler88&theme=dracula&margin-w=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuspichler/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuspichler)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusPichler88)
+## 📁 Projetos em Destaque
+* [cite_start]**Gestão Museu Treze de Maio:** Sistema Full-stack em Java para catalogação de acervo histórico[cite: 11, 19].
+* [cite_start]**API Vila da Folha:** Gerenciamento de missões com Spring Boot 3, Docker e documentação Swagger[cite: 20, 24, 26].
+* **Backend Imobiliário:** Módulo de gestão de áreas comuns e boletos utilizando NestJS e TypeORM.
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatheusPichler88&label=Profile+Views&color=8BE9FD&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/MatheusPichler88?color=6272A4&label=Followers&style=flat" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=MatheusPichler88&label=Profile+Views&color=61DAFB&style=flat-square" alt="Views" />
 </p>
