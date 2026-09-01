@@ -69,7 +69,17 @@ Aplicação Full Stack que demonstra processamento concorrente de pedidos em tem
 
 **Tecnologias:** Java 17 · Spring Boot · WebSocket (STOMP) · Vue 3 · Vite
 
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusPichler88)
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusPichler88/simulador-pedidos)
+
+---
+
+
+### 🏛️ Sistema de Acervo — Museu Treze de Maio
+Sistema real desenvolvido para catalogação e gerenciamento do acervo histórico e cultural do Museu Treze de Maio, com impacto direto na preservação do patrimônio afro-brasileiro.
+
+**Tecnologias:** Java · Spring Boot · MySQL · Thymeleaf · Bootstrap · Docker · Spring Security
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusPichler88/museu-treze-de-maio)
 
 ---
 
@@ -82,14 +92,6 @@ API REST para gerenciamento de ninjas e missões, com versionamento de banco de 
 
 ---
 
-### 🏛️ Sistema de Acervo — Museu Treze de Maio
-Sistema real desenvolvido para catalogação e gerenciamento do acervo histórico e cultural do Museu Treze de Maio, com impacto direto na preservação do patrimônio afro-brasileiro.
-
-**Tecnologias:** Java · Spring Boot · MySQL · Thymeleaf · Bootstrap · Docker · Spring Security
-
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusPichler88/museu-treze-de-maio)
-
----
 
 ## 📈 GitHub Activity
 
