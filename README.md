@@ -93,10 +93,6 @@ API REST para gerenciamento de ninjas e missões, com versionamento de banco de 
 ---
 
 
-### 📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPichler88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPichler88&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </div>
-🧠 Atualmente Explorando
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nextjs,vue,typescript,docker,postgres" /> </div>
 🌎 Contato
 <div align="center">
 
@@ -105,6 +101,9 @@ API REST para gerenciamento de ninjas e missões, com versionamento de banco de 
 🐙 GitHub: github.com/MatheusPichler88
 
 </div>
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </div>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<div align="center">
+
+"A mente que se abre a uma nova ideia jamais volta ao seu tamanho original."
+— Albert Einstein
+
 </div>
