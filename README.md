@@ -88,39 +88,23 @@ API REST para gerenciamento de ninjas e missões, com versionamento de banco de 
 
 **Tecnologias:** Java 17 · Spring Boot · Spring Data JPA · MySQL · Flyway · Docker · Swagger/OpenAPI
 
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusPichler88)
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusPichler88/CadastroDeNinjas)
 
 ---
 
 
-## 📈 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusPichler88&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-## 🧠 Atualmente Explorando
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nestjs,nextjs,vue,docker,postgres,typescript" />
-</div>
-
----
-
-## 🌎 Contato
-
+### 📈 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPichler88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPichler88&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </div>
+🧠 Atualmente Explorando
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nextjs,vue,typescript,docker,postgres" /> </div>
+🌎 Contato
 <div align="center">
 
-📧 **Email:** matheuspichler94@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/matheuspichler](https://www.linkedin.com/in/matheuspichler)  
-🐙 **GitHub:** [github.com/MatheusPichler88](https://github.com/MatheusPichler88)
+📧 Email: matheuspichler94@gmail.com
+💼 LinkedIn: linkedin.com/in/matheuspichler
+🐙 GitHub: github.com/MatheusPichler88
 
 </div>
-
----
-
-<div align="center">
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </div>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
